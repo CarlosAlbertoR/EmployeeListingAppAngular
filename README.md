@@ -1,5 +1,10 @@
 # Employee Listing App Angular
 
+## Description
+Employee listing application developed in Angular. Using communication between components. 
+
+![](./src/assets/Screenshot.png)
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.0.2.
 
 ## Development server
